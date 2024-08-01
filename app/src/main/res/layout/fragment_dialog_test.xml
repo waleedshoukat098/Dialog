@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DialogTestFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+       <!--  TODO: Update blank fragment layout
+        <Button
+            android:id="@+id/delTest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Delete"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />-->
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/openOkDialogbtn"
+            android:layout_width="275dp"
+            android:layout_height="71dp"
+            android:background="@color/white"
+            android:text="OK"
+            android:textColor="@color/black_login"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.19999999" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/deleteDialog"
+            android:layout_width="286dp"
+            android:layout_height="59dp"
+            android:background="@color/white"
+            android:text="Delete"
+            android:textColor="@color/black_login"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.529"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/openDialogbtn"
+            app:layout_constraintVertical_bias="0.174" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/okCancelForDialogTextTest"
+            android:layout_width="283dp"
+            android:layout_height="55dp"
+            android:background="@color/white"
+            android:text="Ok Cancel For Dialog"
+            android:textColor="@color/black_login"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/cancelDialog"
+            app:layout_constraintVertical_bias="0.195" />
+
+        <!--   <com.google.android.material.button.MaterialButton
+              android:id="@+id/okCancelText"
+              android:layout_width="200dp"
+              android:layout_height="64dp"
+              android:backgroundTint="@color/black_login"
+              android:text="OkCancel For Dialog Text"
+              app:layout_constraintBottom_toTopOf="@+id/deleteDialogText"
+              app:layout_constraintEnd_toEndOf="parent"
+              app:layout_constraintHorizontal_bias="0.502"
+              app:layout_constraintStart_toStartOf="parent"
+              app:layout_constraintTop_toTopOf="parent"
+              app:layout_constraintVertical_bias="0.651" />
+
+           <com.google.android.material.button.MaterialButton
+                android:id="@+id/deleteDialogText"
+                android:layout_width="200dp"
+                android:layout_height="64dp"
+                android:backgroundTint="@color/black_login"
+                android:text="Delete For Dialog Text"
+                app:layout_constraintBottom_toTopOf="@+id/openDialogbtn"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.502"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.776" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/extWayTowardsDialog"
+                android:layout_width="200dp"
+                android:layout_height="64dp"
+                android:layout_marginTop="44dp"
+                android:backgroundTint="@color/black_login"
+                android:text="@string/dialog_text_using_extension"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.502"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/okForDialogTextTest" />
+
+    -->
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

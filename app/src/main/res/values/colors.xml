@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bombay">#b7b9bc</color>
+    <color name="woodsmoke">#0f1011</color>
+    <color name="shuttle_grey">#515357</color>
+    <color name="force_white">#FFF</color>
+    <color name="lochmara">#007dc5</color>
+    <color name="catskill_white">#e5e9f2</color>
+    <color name="transparent">#00000000</color>
+    <color name="concrete">#f3f3f3</color>
+
+    <color name="mischka">#e6e7e9</color>
+    <color name="santas_grey">#9d9fa4</color>
+    <color name="progress_bar_background">#303134</color>
+    <color name="coral">#fd5648</color>
+    <color name="black_login">#000000</color>
+    <color name="black_0_99">#231F20</color>
+    <color name="Tertiary_012">#f0f0f0</color>
+    <color name="nevada">#6a6c71</color>
+    <color name="light_grey">#f8f8f8</color>
+    <color name="white_5">#80FFFFFF</color>
+    <color name="oslo_grey">#83868b</color>
+    <color name="alabaster">#f9f9f9</color>
+    <color name="dashboard_bg">#FFFFFF</color>
+    <color name="cerulean">#0093e7</color>
+    <color name="light_royal_blue">#304dff</color>
+    <color name="carnation_pink">#ff7eb0</color>
+</resources>

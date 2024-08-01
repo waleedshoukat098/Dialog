@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MainFragment</string>
+    <string name="find_dialog">Find Dialog</string>
+    <string name="continue_text">Continue</string>
+    <string name="log_out">Log Out</string>
+    <string name="otp_msg">Please wait while we validate the passcode sent to your registered number ********%1$s. If the code is not validated automatically,  you can enter it below</string>
+    <string name="ok">OK</string>
+    //test
+    <string name="donetest">Done</string>
+    <string name="titletest">Title for Testing</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="cancel2Test">Cancel2Test</string>
+    <string name="take_a_photo">Take a photo</string>
+    <string name="choose_from_photos">Choose From Photos</string>
+    <string name="remove_profile_picture">Remove Profile Picture</string>
+    <string name="go_back">Go Back</string>
+    <string name="company">Company</string>
+    <string name="select_company">Select Company</string>
+    <string name="let_s_take_your_biometric_scan">Let’s Take A Biometric Scan</string>
+    <string name="to_verify_it_s_your_identity">To verify your identity we require your biometric scan. Place your hand under your camera against a plain background with good lighting and tap Get Started.</string>
+    <string name="i_m_not_able_to_provide_a_biometric">I’m not able to provide a biometric</string>
+    <string name="could_not_receive_response">Could not receive response!</string>
+    <string name="get_started">Get Started</string>
+    <string name="done">Done</string>
+    <string name="verifying_device">Verifying Device</string>
+    <string name="please_wait_while_we_automatically_verify_your_device">Please wait while we automatically verify your device.</string>
+    <string name="help">Help</string>
+    <string name="otp_checklist">OTP Checklist</string>
+    <string name="if_your_otp_is_not_being_automatically_read_by_the_app_make_sure_of_the_following">If your OTP is not being automatically read by the app, make sure of the following</string>
+    <string name="your_device_contains_the_sim_for_your_registered_mobile_number">Your device contains the SIM for your registered mobile number.</string>
+    <string name="if_otp_is_not_received_before_the_timer_runs_out_please_tap_the_resend_button">If OTP is not received before the timer runs out, please tap the Resend button.</string>
+    <string name="you_don_t_switch_apps_when_receiving_an_otp">You don\'t switch apps when receiving an OTP.</string>
+    <string name="other_apps_aren_t_appearing_on_top_of_the_ubl_app">Other apps aren\'t appearing on top of the UBL app.</string>
+
+    <string name="validate_otp">Validate OTP</string>
+    <string name="resend">Resend</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_text_using_extension">Dialog Text Using Extension</string>
+</resources>
